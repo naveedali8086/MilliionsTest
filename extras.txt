@@ -1,0 +1,12 @@
+https://laravel.com/docs/9.x/sanctum
+https://laravel.com/docs/9.x/filesystem#the-public-disk
+https://laravel.com/docs/9.x/eloquent-serialization
+https://laravel.com/docs/9.x/eloquent-resources
+https://www.google.com/search?q=laravel+api+for+creating+posts+with+like+and+unlike&oq=laravel+api+for+creating+posts+with+like+and+unlike&aqs=chrome..69i57.17971j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.google.com/search?q=CMS+in+Laravel+api&biw=1600&bih=700&sxsrf=APq-WBuM2C0y_ZtFPKXtNaDJzuzDH3MCSw%3A1650824468119&ei=FJVlYqbNBt6C9u8PwcCZ4AI&ved=0ahUKEwimp4iwqK33AhVegf0HHUFgBiwQ4dUDCA4&uact=5&oq=CMS+in+Laravel+api&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABOgcIABBHELADOgQIIxAnOgYIABAWEB46CAghEBYQHRAeOgcIIRAKEKABSgQIQRgASgQIRhgAULkGWKkPYO0XaAJwAXgAgAGrAogBrAqSAQMyLTWYAQCgAQHIAQjAAQE&sclient=gws-wiz
+
+
+https://pusher.com/tutorials/cms-laravel-vue-part-6/
+
+https://morioh.com/p/715b2bc28221
