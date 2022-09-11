@@ -11,7 +11,7 @@ class ApiAuthController extends Controller
     {
         if (Auth::attempt(['email' => $request->email, 'password' => $request->password])) {
 
-            $this->data['token'] = Auth::user()->createToken('Api_token')->plainTextToken;
+            $this->data['token'] = $request->user()->createToken('Api_token')->plainTextToken;
 
             $this->has_err = false;
 
